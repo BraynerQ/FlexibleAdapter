@@ -4142,7 +4142,7 @@ public class FlexibleAdapter<T extends IFlexible>
                 }
             }
             // Expand if filter found text in subItems
-            expandable.setExpanded(filtered);
+            //expandable.setExpanded(filtered);
         }
         return filtered;
     }
